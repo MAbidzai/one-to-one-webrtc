@@ -9,7 +9,7 @@ Gemfile.lock
 dist/
 .vscode/
 v2.2.2
-node_modules
+
 bower_components
 make-tar.sh
 *.tar.gz
